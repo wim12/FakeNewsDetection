@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26340735-0ff7-4d28-80ca-fcfc92187103" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Comp&amp;Tune.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1XrHVV0IsLJ0vgOBJ8deYPuGi0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Comp&amp;Tune.py" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Will\Desktop\Fake news Detection\Fake-News-Detection\Code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Comp&amp;Tune">
+    <configuration name="Comp&amp;Tune" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Users\Will\Anaconda3\envs\Code\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comp&amp;Tune.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FakeNews" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FakeNews.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Comp&amp;Tune" />
+      <item itemvalue="Python.FakeNews" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FakeNews" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26340735-0ff7-4d28-80ca-fcfc92187103" name="Default Changelist" comment="" />
+      <created>1581797318630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581797318630</updated>
+      <workItem from="1581797326137" duration="6910000" />
+      <workItem from="1581864406318" duration="7571000" />
+      <workItem from="1582075462874" duration="2602000" />
+      <workItem from="1582396716945" duration="1421000" />
+      <workItem from="1582406395132" duration="7206000" />
+      <workItem from="1582490687353" duration="7539000" />
+      <workItem from="1582585787186" duration="4121000" />
+      <workItem from="1582593502602" duration="2655000" />
+      <workItem from="1583149850219" duration="4844000" />
+      <workItem from="1583333872555" duration="10851000" />
+      <workItem from="1583432698093" duration="6362000" />
+      <workItem from="1583948626835" duration="2486000" />
+      <workItem from="1584035203234" duration="6311000" />
+      <workItem from="1584128509606" duration="3863000" />
+      <workItem from="1584202563873" duration="7615000" />
+      <workItem from="1584791072266" duration="1224000" />
+      <workItem from="1584873068453" duration="3334000" />
+      <workItem from="1585081634495" duration="2138000" />
+      <workItem from="1585417615370" duration="13886000" />
+      <workItem from="1585598117151" duration="3778000" />
+      <workItem from="1585671451894" duration="1267000" />
+      <workItem from="1585759017058" duration="1755000" />
+      <workItem from="1585845855443" duration="6407000" />
+      <workItem from="1585936810047" duration="27525000" />
+      <workItem from="1586350950669" duration="1061000" />
+      <workItem from="1587463642803" duration="589000" />
+      <workItem from="1589120795483" duration="2930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4580000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Inspections" timestamp="1582585914904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Inspections/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1582585914904" />
+    <state x="359" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585489236901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1585489236901" />
+    <state x="707" y="386" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582585875503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="386" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1582585875503" />
+    <state x="555" y="115" key="CommitChangelistDialog2" timestamp="1585512454064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1585512454064" />
+    <state x="700" y="333" key="FileChooserDialogImpl" timestamp="1585489229047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="333" key="FileChooserDialogImpl/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1585489229047" />
+    <state width="938" height="283" key="GridCell.Tab.0.bottom" timestamp="1586105469594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586105469594" />
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598128" />
+    <state width="938" height="283" key="GridCell.Tab.0.center" timestamp="1586105469594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="283" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586105469594" />
+    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598128" />
+    <state width="938" height="283" key="GridCell.Tab.0.left" timestamp="1586105469594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="283" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586105469594" />
+    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598128" />
+    <state width="938" height="283" key="GridCell.Tab.0.right" timestamp="1586105469594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="283" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586105469594" />
+    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598128" />
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom" timestamp="1586011827832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586011827832" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598129" />
+    <state width="1877" height="341" key="GridCell.Tab.1.center" timestamp="1586011827832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586011827832" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598129" />
+    <state width="1877" height="341" key="GridCell.Tab.1.left" timestamp="1586011827832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586011827832" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598129" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right" timestamp="1586011827832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586011827832" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585522598129" />
+    <state x="1020" y="267" key="IDE.errors.dialog" timestamp="1581810758702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1020" y="267" key="IDE.errors.dialog/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1581810758702" />
+    <state x="426" y="104" key="SettingsEditor" timestamp="1586089581786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="426" y="104" key="SettingsEditor/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586089581786" />
+    <state x="434" y="110" key="SettingsEditor/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1582597879457" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1585951150642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1585951150642" />
+    <state x="2581" y="46" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-299.1920.1040@1920.-299.1920.1040" timestamp="1585600365480" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586011666760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-299.1920.1040@0.0.1920.1040" timestamp="1586011666760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FakeNews.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FakeNews.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FakeNews.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Comp&amp;Tune.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$Comp_Tune.coverage" NAME="Comp&amp;Tune Coverage Results" MODIFIED="1586012444259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code$FakeNews.coverage" NAME="FakeNews Coverage Results" MODIFIED="1585489163375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Comp&amp;Tune.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

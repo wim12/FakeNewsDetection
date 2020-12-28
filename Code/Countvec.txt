@@ -1,0 +1,108 @@
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)f1 score: 0.895913
+accuracy: 0.896222
+precision: 0.896222
+recall: 0.917821
+              precision    recall  f1-score   support
+
+        FAKE       0.91      0.87      0.89      1008
+        REAL       0.89      0.92      0.90      1083
+
+    accuracy                           0.90      2091
+   macro avg       0.90      0.90      0.90      2091
+weighted avg       0.90      0.90      0.90      2091
+SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+              early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+              l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+              max_iter=1000, n_iter_no_change=5, n_jobs=None, penalty='l2',
+              power_t=0.5, random_state=None, shuffle=True, tol=0.001,
+              validation_fraction=0.1, verbose=0, warm_start=False)f1 score: 0.926802
+accuracy: 0.926829
+precision: 0.926829
+recall: 0.913204
+              precision    recall  f1-score   support
+
+        FAKE       0.91      0.94      0.93      1008
+        REAL       0.94      0.91      0.93      1083
+
+    accuracy                           0.93      2091
+   macro avg       0.93      0.93      0.93      2091
+weighted avg       0.93      0.93      0.93      2091
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=None, n_neighbors=5, p=2,
+                     weights='uniform')f1 score: 0.799139
+accuracy: 0.799139
+precision: 0.799139
+recall: 0.771006
+              precision    recall  f1-score   support
+
+        FAKE       0.77      0.83      0.80      1008
+        REAL       0.83      0.77      0.80      1083
+
+    accuracy                           0.80      2091
+   macro avg       0.80      0.80      0.80      2091
+weighted avg       0.80      0.80      0.80      2091
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)f1 score: 0.894278
+accuracy: 0.894309
+precision: 0.894309
+recall: 0.879963
+              precision    recall  f1-score   support
+
+        FAKE       0.88      0.91      0.89      1008
+        REAL       0.91      0.88      0.90      1083
+
+    accuracy                           0.89      2091
+   macro avg       0.89      0.89      0.89      2091
+weighted avg       0.89      0.89      0.89      2091
+DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=None, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, presort='deprecated',
+                       random_state=None, splitter='best')f1 score: 0.813479
+accuracy: 0.813486
+precision: 0.813486
+recall: 0.779317
+              precision    recall  f1-score   support
+
+        FAKE       0.78      0.85      0.81      1008
+        REAL       0.85      0.78      0.81      1083
+
+    accuracy                           0.81      2091
+   macro avg       0.82      0.81      0.81      2091
+weighted avg       0.82      0.81      0.81      2091
+LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+          intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+          multi_class='ovr', penalty='l2', random_state=0, tol=0.0001,
+          verbose=0)f1 score: 0.871336
+accuracy: 0.871353
+precision: 0.871353
+recall: 0.852262
+              precision    recall  f1-score   support
+
+        FAKE       0.85      0.89      0.87      1008
+        REAL       0.89      0.85      0.87      1083
+
+    accuracy                           0.87      2091
+   macro avg       0.87      0.87      0.87      2091
+weighted avg       0.87      0.87      0.87      2091
+RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)f1 score: 0.895256
+accuracy: 0.895265
+precision: 0.895265
+recall: 0.873500
+              precision    recall  f1-score   support
+
+        FAKE       0.87      0.92      0.89      1008
+        REAL       0.92      0.87      0.90      1083
+
+    accuracy                           0.90      2091
+   macro avg       0.90      0.90      0.90      2091
+weighted avg       0.90      0.90      0.90      2091
